@@ -1,0 +1,33 @@
+h1 {
+  font-family: Verdana, sans-serif;
+	font-size: 24px;
+	color: white;
+	
+}
+
+body {
+  background-color: #88b2f7;
+  color: #ffffff;
+  font-family: Verdana, sans-serif;
+	font-size: 12px;
+	text-align: center;
+	margin: 200px auto auto auto;
+	max-width: 240px;
+	image-rendering: pixelated;
+}  
+
+a:link {
+    color: #ffffff;
+}
+
+a:visited {
+    color: #ffffff;
+}
+
+a:hover {
+    color: #ffffff;
+}
+
+a:active {
+    color: #ffffff;
+}
